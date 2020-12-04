@@ -1,0 +1,14 @@
+*.zip
+*.png
+*.pgm
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.pdf
+qPapers/
+lectures/
+Books/
+Submission Guidelines.pdf
+
+
